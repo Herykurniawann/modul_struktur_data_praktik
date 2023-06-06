@@ -1,0 +1,3 @@
+kisi kisi responsi :
+problem solving
+soal cerita dengan menggunakan array yang menerapkan tipe data tertentu
