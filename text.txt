@@ -1,3 +1,4 @@
 kisi kisi responsi :
 problem solving
 soal cerita dengan menggunakan array yang menerapkan tipe data tertentu
+soal diberikan pagi , dateng ke kampus mengumpulkan dan lanjutkan 
